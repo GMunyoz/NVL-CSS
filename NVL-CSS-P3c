@@ -1,1 +1,9 @@
-
+<html>
+   <head>  
+      <title>Esto es CSS INLINE</title> 
+   </head> 
+   <body> 
+      <p style="color:red;">Aquí el texto es rojo</p>
+      <p>Aquí no tiene estilo</p>
+   </body> 
+</html> 
