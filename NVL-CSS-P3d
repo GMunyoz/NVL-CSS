@@ -1,0 +1,11 @@
+<html>
+  <LINK REL=StyleSheet HREF="estilo.css" TYPE="text/css">
+   <head>  
+      <title>Todos las maneras de aplicar CSS> 
+      <style> p { color: blue; } </style>
+   </head> 
+   <body> 
+      <p style="color:red;">Este texto es de color rojo</p>
+      <p>Este texto es de color azul</p>
+   </body> 
+</html> 
