@@ -1,1 +1,9 @@
-
+<html>
+<head>
+    <title>Estilos en el head</title>  
+    <style> p { color: red; } </style>
+</head> 
+<body>
+     <p>Aquí el texto es rojo</p>
+</body> 
+</html> 
