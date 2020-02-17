@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>        
+        .div-borde-naranja {
+            background-color: yellow;
+            width: 114px;
+            border: 16px solid orange;
+            padding: 64px
+            
+            
+        }
+
+        .div-borde-rojo {
+            background-color: red;
+            width:274px;
+            border: 10px solid red;
+           
+        }
+    </style>
+
+    <div class="div-borde-rojo">
+        <div class="div-borde-naranja">
+
+        </div>
+    </div>
+</head>
+</html>
